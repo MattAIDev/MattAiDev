@@ -13,10 +13,10 @@ Interested in AI-driven systems and security-aware architectures.
     src="https://custom-icon-badges.demolab.com/badge/Instagram-13k-E4405F?logo=instagram&logoColor=white"
   />
 </a>
-<a href="https://www.linkedin.com/in/matías-rodriguezhto" target="_blank">
+<a href="https://www.linkedin.com/in/matias-rodriguezhto" target="_blank">
   <img
     alt="linkedin"
     title="LinkedIn profile"
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"
   />
 </a>
