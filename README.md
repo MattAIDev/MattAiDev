@@ -1,5 +1,5 @@
-# Matías Rodriguez
-**´AI & Automation Developer/Cybersecurity & Secure Systems/UX-UI Designer´**
+# Matías Rodriguez 🧑🏻‍💻
+**'AI & Automation Developer/Cybersecurity & Secure Systems/UX-UI Designer'**
 
 AI systems developer with experience in automation, chatbots, and web-based solutions.
 Trained in cybersecurity fundamentals, applying security best practices in both professional environments and personal projects.
@@ -14,7 +14,7 @@ Interested in AI-driven systems and security-aware architectures.
   />
 </a>
 
-<a href="https://www.linkedin.com/in/matias-rodriguezhto" target="_blank">
+<a href="https://www.linkedin.com/in/matías-rodriguezhto" target="_blank">
   <img
     alt="linkedin"
     title="LinkedIn profile"
