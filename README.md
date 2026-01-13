@@ -1,5 +1,5 @@
 # Matías Rodriguez 🧑🏻‍💻
-**'AI & Automation Developer/Cybersecurity & Secure Systems/UX-UI Designer'**
+**`AI & Automation Developer / Cybersecurity / UX/UI`**
 
 AI systems developer with experience in automation, chatbots, and web-based solutions.
 Trained in cybersecurity fundamentals, applying security best practices in both professional environments and personal projects.
