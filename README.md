@@ -34,3 +34,10 @@ Interested in AI-driven systems and security-aware architectures.
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
+
+<details>
+<summary><h3>👑 My Journey</h3></summary>
+My interest in technology began in childhood, creating and managing Minecraft servers, where I first explored systems, automation, and problem-solving.
+This curiosity led me to learn multiple programming languages and develop software focused on real-world use cases.
+Today, I work as a developer for a local municipality, creating systems designed to solve practical problems and improve public services.
+Alongside my professional work, I am studying Creative Industries, integrating design, UX/UI, and development to build meaningful, user-centered digital solutions.
